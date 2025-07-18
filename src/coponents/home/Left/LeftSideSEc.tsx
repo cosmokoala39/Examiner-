@@ -8,7 +8,7 @@ const LefSec = () => {
   const featured = newsData[0];
   const large = newsData[1];
   const stackedArticles = newsData.slice(2, 4);
-  const bottomArticles = newsData.slice(4);
+
 
   return (
     <div className="container-fluid px-0">

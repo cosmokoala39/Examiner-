@@ -1,4 +1,6 @@
+'use client';
 import React from 'react';
+import Image from 'next/image';
 import latestNewsData from '../../../public/data/latestNews.json';
 
 const RightSide = () => {
@@ -17,12 +19,11 @@ const RightSide = () => {
       >
         Advertisement
       </div>
-      <hr/>
+      <hr />
 
       <h5
         style={{
           fontWeight: 'bold',
-         
           paddingBottom: '8px',
           marginBottom: '12px',
         }}
@@ -53,11 +54,16 @@ const RightSide = () => {
                   {item.authors} · {item.time}
                 </div>
               </div>
-              <img
-                src={item.img}
-                alt="news"
-                style={{ width: '60px', height: '60px', objectFit: 'cover', borderRadius: '4px' }}
-              />
+
+              {/* ✅ Optimized Image */}
+              <div style={{ width: '60px', height: '60px', position: 'relative', borderRadius: '4px', overflow: 'hidden' }}>
+                <Image
+                  src={item.img}
+                  alt="news"
+                  fill
+                  style={{ objectFit: 'cover' }}
+                />
+              </div>
             </div>
 
             {/* Divider below each item except last */}
@@ -70,13 +76,13 @@ const RightSide = () => {
 
       {/* 📢 Advertisement BELOW Latest News */}
       <div
-       style={{
+        style={{
           height: '300px',
-           backgroundColor: '#fafcfdff',
+          backgroundColor: '#fafcfdff',
           marginBottom: '30px',
           display: 'flex',
           justifyContent: 'center',
-          color:"black"
+          color: "black"
         }}
       >
         Advertisement
