@@ -2,12 +2,42 @@
   --background: #ffffff;
   --foreground: #171717;
 }
+.main-div{
+  margin: 0 auto;
+  min-height: 100vh;
+  width: 80%;
+}
+.sec-div{
+  display: flex;
+   
+}
+
+.mobile-hd{
+  margin: 0 auto;
+  width: 80%;
+}
+
+@media (max-width: 767px) {
+ .main-div{
+  margin: 0 auto;
+  min-height: 100vh;
+  width: 100%;
+  
+}
+.sec-div{
+  display: flex;
+   flex-direction:column ;
+}
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
+
+ 
+
 }
 
 html,
@@ -28,6 +58,10 @@ body {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+}
+p{
+  margin-bottom: 0rem !important;
+  margin-top: 0rem ;
 }
 
 a {

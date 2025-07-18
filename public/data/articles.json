@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Decision reached on guilt of driver who killed 74-year-old good Samaritan",
+    "description": "Investigators discovered something when they inspected the car.",
+    "category": "Court",
+    "author": "Bailey Forbes",
+    "image": "/images/featured.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "title": "Basketball boost: how a women’s team could give young girls the best shot",
+    "author": "Saree Salter",
+    "image": "/images/basketball.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Make sure your vote counts: the dos and don’ts of exercising your democratic right",
+    "author": "Laurie Bullock, Joe Colbrook and Craig Thomson",
+    "image": "/images/vote.jpg",
+    "comments": 1
+  },
+  {
+    "id": 4,
+    "title": "Calls for childcare register to include work histories",
+    "author": "William Ton and Rachael Ward",
+    "image": "/images/childcare.jpg",
+    "time": "30m ago"
+  },
+  {
+    "id": 5,
+    "title": "Identity of missing pilot revealed as family and friend speak out",
+    "author": "Tim Grey and Jimmy Parker",
+    "image": "/images/pilot.jpg",
+    "tag": "Exclusive",
+    "time": "2hrs ago"
+  }
+]

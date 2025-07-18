@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "After carefully reviewing CCTV footage and forensic evidence, the jury ",
+    "description": "Investigators say the 74-year-old man had stepped in to assist a stranger when tragedy struck.",
+    "category": "Court",
+    "author": "Bailey Forbes",
+    "image": "/images/switzerland-zero-interest-rate-shift-2025.webp",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "title": "Basketball boost: how a womens team...",
+    "author": "Saree Salter",
+    "image": "/images/stellantis-french-executives-leadership-rise.webp"
+  },
+  {
+    "id": 3,
+    "title": "Make sure your vote counts: the dos and don’ts...",
+    "author": "Laurie Bullock, Joe Colbrook and Craig Thomson",
+    "image": "/images/stellantis-french-executives-leadership-rise.webp",
+    "comments": 1
+  },
+  {
+    "id": 4,
+    "title": "Deadline set: Labor won’t waste time...",
+    "author": "Matt Maloney",
+    "image": "/images/stellantis-french-executives-leadership-rise.webp",
+    "comments": 1
+  },
+  {
+    "id": 5,
+    "title": "Calls for childcare register...",
+    "author": "William Tom and Rachael Ward",
+    "image": "/images/stellantis-french-executives-leadership-rise.webp",
+    "time": "30m"
+  },
+  {
+    "id": 6,
+    "title": "Identity of missing pilot revealed...",
+    "author": "Tim Grey and Jimmy Parker",
+    "image": "/images/stellantis-french-executives-leadership-rise.webp",
+    "time": "2hrs ago",
+    "tag": "Exclusive"
+  }
+]

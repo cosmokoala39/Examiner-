@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Decision reached on guilt of driver who killed 74-year-old good Samaritan",
+    "subtitle": "Investigators discovered something when they inspected the car.",
+    "author": "Bailey Forbes",
+    "img": "/images/article1.jpg",
+    "type": "feature"
+  },
+  {
+    "title": "Basketball boost: how a women’s team could give young girls the best shot",
+    "subtitle": "After the Jackjumpers’ success, could we get a women’s team?",
+    "author": "Saree Salter",
+    "img": "/images/article2.jpg",
+    "type": "wide"
+  },
+  {
+    "title": "Make sure your vote counts: the dos and don'ts of exercising your democratic right",
+    "author": "Laurie Bullock, Joe Colbrook and Craig Thomson",
+    "comments": 1,
+    "img": "/images/article3.jpg",
+    "type": "side"
+  },
+  {
+    "title": "Deadline set: Labor won’t waste time revealing Spirit vessel costings",
+    "subtitle": "Where in the world exactly is the Spirit of Tasmania IV?",
+    "author": "Matt Maloney",
+    "comments": 1,
+    "img": "/images/article4.jpg",
+    "type": "side"
+  },
+  {
+    "title": "Calls for childcare register to include work histories",
+    "author": "William Ton and Rachael Ward",
+    "time": "30m ago",
+    "img": "/images/article5.jpg",
+    "type": "side"
+  },
+  {
+    "title": "Identity of missing pilot revealed as family and friend speak out",
+    "subtitle": "Pilot’s wife thanks community for support as search continues.",
+    "author": "Tim Grey and Jimmy Parker",
+    "time": "2hrs ago",
+    "badge": "Exclusive",
+    "img": "/images/article6.jpg",
+    "type": "side"
+  }
+]
